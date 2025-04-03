@@ -1,5 +1,4 @@
-"
-Team Name: Group 47 <br/>
+"Team Name: Group 47 <br/>
 Team Members: <br/>
    -Trent Stross (tas366@pitt.edu) <br/>
    -Richie Powers (rrp73@pitt.edu) <br/>
